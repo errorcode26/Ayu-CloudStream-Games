@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/repo.
 
 ## Available Games
 
-- **Game Boy Advance**: One Piece, Prince of Persia: The Sands of Time, Tekken Advance, Metal Slug Advance, Serious Sam Advance, Jackie Chan Adventures
+- **Game Boy Advance**: Castlevania: Aria of Sorrow, Jackie Chan Adventures, Lara Croft Tomb Raider: Legend, The Little Mermaid: Magic in Two Kingdoms, Medal of Honor: Infiltrator, Metal Slug Advance, One Piece, Pokémon: FireRed Version, Prince of Persia: The Sands of Time, Serious Sam Advance, Tekken Advance, The Legend of Zelda: The Minish Cap
 - **NES**: Super Mario Bros. Collection, Contra, Castlevania, The Legend of Zelda
 - **Retro / Canvas**: DOOM, Flappy Bird
 

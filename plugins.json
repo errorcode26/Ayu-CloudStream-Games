@@ -14,7 +14,7 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Castlevania%20(USA).png",
+    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
     "fileSize": 159336
   },
   {
@@ -32,7 +32,7 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Contra%20(USA).png",
+    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
     "fileSize": 182275
   },
   {
@@ -50,7 +50,7 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/DOS/master/Named_Boxarts/DOOM%20(1993).png",
+    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
     "fileSize": 16605
   },
   {
@@ -68,7 +68,7 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/samuelcust/flappy-bird-assets/master/sprites/yellowbird-midflap.png",
+    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
     "fileSize": 139968
   },
   {
@@ -86,7 +86,7 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jackie%20Chan%20Adventures%20-%20Legend%20of%20the%20Dark%20Hand%20(USA%2C%20Europe).png",
+    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
     "fileSize": 2384148
   },
   {
@@ -104,7 +104,7 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Metal%20Slug%20Advance%20(USA).png",
+    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
     "fileSize": 3975971
   },
   {
@@ -122,7 +122,7 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/One%20Piece%20(USA).png",
+    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
     "fileSize": 2639369
   },
   {
@@ -140,7 +140,7 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20(USA)%20(En%2CFr%2CEs).png",
+    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
     "fileSize": 5276231
   },
   {
@@ -158,7 +158,7 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Serious%20Sam%20Advance%20(USA)%20(En%2CFr%2CDe).png",
+    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
     "fileSize": 4521782
   },
   {
@@ -176,7 +176,7 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20Bros.%20(World).png",
+    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
     "fileSize": 528621
   },
   {
@@ -194,7 +194,7 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tekken%20Advance%20(USA).png",
+    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
     "fileSize": 6381028
   },
   {
@@ -212,7 +212,115 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20(USA).png",
+    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
     "fileSize": 151849
+  },
+  {
+    "name": "AriaOfSorrow",
+    "internalName": "AriaOfSorrow",
+    "description": "Castlevania: Aria of Sorrow \u2014 Classic Game Boy Advance gothic action-adventure RPG.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/AriaOfSorrow.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Castlevania%20-%20Aria%20of%20Sorrow%20(USA).png",
+    "fileSize": 4511456
+  },
+  {
+    "name": "LittleMermaid",
+    "internalName": "LittleMermaid",
+    "description": "The Little Mermaid: Magic in Two Kingdoms \u2014 Classic Game Boy Advance fairy tale aquatic adventure.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/LittleMermaid.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Little%20Mermaid%2C%20The%20-%20Magic%20in%20Two%20Kingdoms%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "fileSize": 4475388
+  },
+  {
+    "name": "MedalOfHonor",
+    "internalName": "MedalOfHonor",
+    "description": "Medal of Honor: Infiltrator \u2014 Classic Game Boy Advance tactical WWII combat.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/MedalOfHonor.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Medal%20of%20Honor%20-%20Infiltrator%20(USA%2C%20Europe)%20(En%2CFr%2CDe).png",
+    "fileSize": 8336733
+  },
+  {
+    "name": "MinishCap",
+    "internalName": "MinishCap",
+    "description": "The Legend of Zelda: The Minish Cap \u2014 Classic Game Boy Advance fantasy adventure.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/MinishCap.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20(USA).png",
+    "fileSize": 7732050
+  },
+  {
+    "name": "Pokemon",
+    "internalName": "Pokemon",
+    "description": "Pok\u00e9mon: FireRed Version \u2014 Classic Game Boy Advance role-playing adventure.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/Pokemon.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pokemon%20-%20FireRed%20Version%20(USA%2C%20Europe).png",
+    "fileSize": 5450986
+  },
+  {
+    "name": "TombRaider",
+    "internalName": "TombRaider",
+    "description": "Lara Croft Tomb Raider: Legend \u2014 Classic Game Boy Advance action platformer.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/TombRaider.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Lara%20Croft%20Tomb%20Raider%20-%20Legend%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "fileSize": 6711363
   }
 ]
