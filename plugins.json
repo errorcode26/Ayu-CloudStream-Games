@@ -126,6 +126,24 @@
     "fileSize": 139655
   },
   {
+    "name": "Game2048",
+    "internalName": "Game2048",
+    "description": "2048 \u2014 Classic sliding tile puzzle game.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/Game2048.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/gabrielecirulli/2048/master/meta/apple-touch-icon.png",
+    "fileSize": 24375
+  },
+  {
     "name": "JackieChan",
     "internalName": "JackieChan",
     "description": "Jackie Chan Adventures \u2014 Classic Game Boy Advance martial arts beat-em-up.",
