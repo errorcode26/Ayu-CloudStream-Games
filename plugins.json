@@ -1,5 +1,41 @@
 [
   {
+    "name": "AriaOfSorrow",
+    "internalName": "AriaOfSorrow",
+    "description": "Castlevania: Aria of Sorrow \u2014 Classic Game Boy Advance gothic action-adventure RPG.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/AriaOfSorrow.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Castlevania%20-%20Aria%20of%20Sorrow%20(USA).png",
+    "fileSize": 4511456
+  },
+  {
+    "name": "AvatarAirbender",
+    "internalName": "AvatarAirbender",
+    "description": "Avatar: The Last Airbender \u2014 Classic Game Boy Advance martial arts adventure.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/AvatarAirbender.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Avatar%20-%20The%20Last%20Airbender%20(USA).png",
+    "fileSize": 3111325
+  },
+  {
     "name": "Castlevania",
     "internalName": "Castlevania",
     "description": "Castlevania (1987) \u2014 Classic Konami action-platformer.",
@@ -14,7 +50,7 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Castlevania%20(USA).png",
     "fileSize": 159336
   },
   {
@@ -32,8 +68,26 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Contra%20(USA).png",
     "fileSize": 182275
+  },
+  {
+    "name": "DesertStrike",
+    "internalName": "DesertStrike",
+    "description": "Desert Strike Advance \u2014 Classic Game Boy Advance tactical isometric AH-64 Apache helicopter combat.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/DesertStrike.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Desert%20Strike%20Advance%20(USA).png",
+    "fileSize": 2396453
   },
   {
     "name": "Doom",
@@ -50,7 +104,7 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/DOS/master/Named_Boxarts/DOOM%20(1993).png",
     "fileSize": 16605
   },
   {
@@ -58,7 +112,7 @@
     "internalName": "FlappyBird",
     "description": "Flappy Bird \u2014 Classic arcade tap-to-fly game.",
     "status": 1,
-    "version": 6,
+    "version": 8,
     "apiVersion": 1,
     "authors": [
       "errorcode26"
@@ -68,8 +122,8 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
-    "fileSize": 139968
+    "iconUrl": "https://raw.githubusercontent.com/samuelcust/flappy-bird-assets/master/sprites/yellowbird-midflap.png",
+    "fileSize": 139655
   },
   {
     "name": "JackieChan",
@@ -86,152 +140,8 @@
       "Others"
     ],
     "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jackie%20Chan%20Adventures%20-%20Legend%20of%20the%20Dark%20Hand%20(USA%2C%20Europe).png",
     "fileSize": 2384148
-  },
-  {
-    "name": "MetalSlugAdvance",
-    "internalName": "MetalSlugAdvance",
-    "description": "Metal Slug Advance - Classic Game Boy Advance run-and-gun arcade shooter.",
-    "status": 1,
-    "version": 7,
-    "apiVersion": 1,
-    "authors": [
-      "errorcode26"
-    ],
-    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/MetalSlugAdvance.cs3",
-    "tvTypes": [
-      "Others"
-    ],
-    "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
-    "fileSize": 3975971
-  },
-  {
-    "name": "OnePiece",
-    "internalName": "OnePiece",
-    "description": "One Piece - Classic Game Boy Advance action platformer.",
-    "status": 1,
-    "version": 16,
-    "apiVersion": 1,
-    "authors": [
-      "errorcode26"
-    ],
-    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/OnePiece.cs3",
-    "tvTypes": [
-      "Others"
-    ],
-    "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
-    "fileSize": 2639369
-  },
-  {
-    "name": "PrinceOfPersia",
-    "internalName": "PrinceOfPersia",
-    "description": "Prince of Persia: The Sands of Time - Classic Game Boy Advance action platformer.",
-    "status": 1,
-    "version": 10,
-    "apiVersion": 1,
-    "authors": [
-      "errorcode26"
-    ],
-    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/PrinceOfPersia.cs3",
-    "tvTypes": [
-      "Others"
-    ],
-    "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
-    "fileSize": 5276231
-  },
-  {
-    "name": "SeriousSam",
-    "internalName": "SeriousSam",
-    "description": "Serious Sam Advance \u2014 Classic Game Boy Advance 3D first-person shooter.",
-    "status": 1,
-    "version": 4,
-    "apiVersion": 1,
-    "authors": [
-      "errorcode26"
-    ],
-    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/SeriousSam.cs3",
-    "tvTypes": [
-      "Others"
-    ],
-    "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
-    "fileSize": 4521782
-  },
-  {
-    "name": "SuperMario",
-    "internalName": "SuperMario",
-    "description": "Super Mario Bros. Collection \u2014 Classic 4-in-1 NES platformer collection.",
-    "status": 1,
-    "version": 14,
-    "apiVersion": 1,
-    "authors": [
-      "errorcode26"
-    ],
-    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/SuperMario.cs3",
-    "tvTypes": [
-      "Others"
-    ],
-    "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
-    "fileSize": 528621
-  },
-  {
-    "name": "TekkenAdvance",
-    "internalName": "TekkenAdvance",
-    "description": "Tekken Advance - Classic Game Boy Advance 3D fighting game.",
-    "status": 1,
-    "version": 7,
-    "apiVersion": 1,
-    "authors": [
-      "errorcode26"
-    ],
-    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/TekkenAdvance.cs3",
-    "tvTypes": [
-      "Others"
-    ],
-    "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
-    "fileSize": 6381028
-  },
-  {
-    "name": "Zelda",
-    "internalName": "Zelda",
-    "description": "The Legend of Zelda (1987) \u2014 Classic Nintendo action-adventure.",
-    "status": 1,
-    "version": 8,
-    "apiVersion": 1,
-    "authors": [
-      "errorcode26"
-    ],
-    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/Zelda.cs3",
-    "tvTypes": [
-      "Others"
-    ],
-    "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/movie/png48/movie_48dp.png",
-    "fileSize": 151849
-  },
-  {
-    "name": "AriaOfSorrow",
-    "internalName": "AriaOfSorrow",
-    "description": "Castlevania: Aria of Sorrow \u2014 Classic Game Boy Advance gothic action-adventure RPG.",
-    "status": 1,
-    "version": 1,
-    "apiVersion": 1,
-    "authors": [
-      "errorcode26"
-    ],
-    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/AriaOfSorrow.cs3",
-    "tvTypes": [
-      "Others"
-    ],
-    "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Castlevania%20-%20Aria%20of%20Sorrow%20(USA).png",
-    "fileSize": 4511456
   },
   {
     "name": "LittleMermaid",
@@ -270,6 +180,24 @@
     "fileSize": 8336733
   },
   {
+    "name": "MetalSlugAdvance",
+    "internalName": "MetalSlugAdvance",
+    "description": "Metal Slug Advance - Classic Game Boy Advance run-and-gun arcade shooter.",
+    "status": 1,
+    "version": 7,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/MetalSlugAdvance.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Metal%20Slug%20Advance%20(USA).png",
+    "fileSize": 3975971
+  },
+  {
     "name": "MinishCap",
     "internalName": "MinishCap",
     "description": "The Legend of Zelda: The Minish Cap \u2014 Classic Game Boy Advance fantasy adventure.",
@@ -286,6 +214,24 @@
     "language": "en",
     "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20(USA).png",
     "fileSize": 7732050
+  },
+  {
+    "name": "OnePiece",
+    "internalName": "OnePiece",
+    "description": "One Piece - Classic Game Boy Advance action platformer.",
+    "status": 1,
+    "version": 16,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/OnePiece.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/One%20Piece%20(USA).png",
+    "fileSize": 2639369
   },
   {
     "name": "Pokemon",
@@ -306,6 +252,78 @@
     "fileSize": 5450986
   },
   {
+    "name": "PrinceOfPersia",
+    "internalName": "PrinceOfPersia",
+    "description": "Prince of Persia: The Sands of Time - Classic Game Boy Advance action platformer.",
+    "status": 1,
+    "version": 10,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/PrinceOfPersia.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20(USA)%20(En%2CFr%2CEs).png",
+    "fileSize": 5276231
+  },
+  {
+    "name": "SeriousSam",
+    "internalName": "SeriousSam",
+    "description": "Serious Sam Advance \u2014 Classic Game Boy Advance 3D first-person shooter.",
+    "status": 1,
+    "version": 4,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/SeriousSam.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Serious%20Sam%20Advance%20(USA)%20(En%2CFr%2CDe).png",
+    "fileSize": 4521782
+  },
+  {
+    "name": "SuperMario",
+    "internalName": "SuperMario",
+    "description": "Super Mario Bros. Collection \u2014 Classic 4-in-1 NES platformer collection.",
+    "status": 1,
+    "version": 14,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/SuperMario.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20Bros.%20(World).png",
+    "fileSize": 528621
+  },
+  {
+    "name": "TekkenAdvance",
+    "internalName": "TekkenAdvance",
+    "description": "Tekken Advance - Classic Game Boy Advance 3D fighting game.",
+    "status": 1,
+    "version": 7,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/TekkenAdvance.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tekken%20Advance%20(USA).png",
+    "fileSize": 6381028
+  },
+  {
     "name": "TombRaider",
     "internalName": "TombRaider",
     "description": "Lara Croft Tomb Raider: Legend \u2014 Classic Game Boy Advance action platformer.",
@@ -322,5 +340,23 @@
     "language": "en",
     "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Lara%20Croft%20Tomb%20Raider%20-%20Legend%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).png",
     "fileSize": 6711363
+  },
+  {
+    "name": "Zelda",
+    "internalName": "Zelda",
+    "description": "The Legend of Zelda (1987) \u2014 Classic Nintendo action-adventure.",
+    "status": 1,
+    "version": 8,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/Zelda.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20(USA).png",
+    "fileSize": 151849
   }
 ]
