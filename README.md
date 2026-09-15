@@ -12,15 +12,15 @@ Add this repository in **CloudStream 3** (Settings > Extensions > Add Repository
 https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/repo.json
 ```
 
-## Available Games
+## Architecture & Features
 
-- **Game Boy Advance**: One Piece, Prince of Persia: The Sands of Time, Tekken Advance, Metal Slug Advance, Serious Sam Advance, Jackie Chan Adventures
-- **NES**: Super Mario Bros. Collection, Contra, Castlevania, The Legend of Zelda
-- **Retro / Canvas**: DOOM, Flappy Bird
+- **Game Boy Advance Runtime**: High-fidelity gbajs WebAudio engine with DirectSound DMA FIFO priming, 60.0988 Hz hardware frame pacing, and 4-layer atomic state persistence.
+- **NES Runtime**: JSNES emulation engine with APU audio register shadowing, channel enable preservation, and atomic battery save management.
+- **Classic WebAssembly / Canvas**: Lightweight, standalone HTML5 game runtime engines with touch overlay controls.
 
 ## Disclaimer & DMCA
 
-This repository is strictly for educational, non-commercial research demonstrating embedded WebAssembly/Canvas emulation runtimes inside Android WebView environments. All game trademarks and intellectual property belong to their respective copyright holders. No commercial distribution is operated or endorsed.
+This repository is strictly for educational, non-commercial research demonstrating embedded WebAssembly and Canvas emulation runtimes inside Android WebView environments. All console trademarks and copyrights belong to their respective holders. No commercial distribution is operated or endorsed.
 
 To request prompt removal of any material, open an issue marked `[DMCA]` or contact the maintainer directly.
 
