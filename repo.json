@@ -1,0 +1,9 @@
+{
+  "name": "Ayu CloudStream Games",
+  "description": "Interactive retro emulation runtimes and classic homebrew engine plugins for CloudStream 3.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/plugins.json"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/icon.png"
+}

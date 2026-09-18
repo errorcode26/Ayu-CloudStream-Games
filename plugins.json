@@ -1,0 +1,380 @@
+[
+  {
+    "name": "AriaOfSorrow",
+    "internalName": "AriaOfSorrow",
+    "description": "Play Aria of Sorrow.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/AriaOfSorrow.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Castlevania%20-%20Aria%20of%20Sorrow%20(USA).png",
+    "fileSize": 4511456
+  },
+  {
+    "name": "AvatarAirbender",
+    "internalName": "AvatarAirbender",
+    "description": "Play Avatar Airbender.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/AvatarAirbender.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Avatar%20-%20The%20Last%20Airbender%20(USA).png",
+    "fileSize": 3111325
+  },
+  {
+    "name": "Castlevania",
+    "internalName": "Castlevania",
+    "description": "Play Castlevania.",
+    "status": 1,
+    "version": 8,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/Castlevania.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Castlevania%20(USA).png",
+    "fileSize": 159336
+  },
+  {
+    "name": "Contra",
+    "internalName": "Contra",
+    "description": "Play Contra.",
+    "status": 1,
+    "version": 10,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/Contra.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Contra%20(USA).png",
+    "fileSize": 182275
+  },
+  {
+    "name": "DesertStrike",
+    "internalName": "DesertStrike",
+    "description": "Play Desert Strike.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/DesertStrike.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Desert%20Strike%20Advance%20(USA).png",
+    "fileSize": 2396453
+  },
+  {
+    "name": "Doom",
+    "internalName": "Doom",
+    "description": "Play DOOM.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/Doom.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Doom%20%28USA%2C%20Europe%29.png",
+    "fileSize": 3276326
+  },
+  {
+    "name": "FlappyBird",
+    "internalName": "FlappyBird",
+    "description": "Play Flappy Bird.",
+    "status": 1,
+    "version": 8,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/FlappyBird.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/samuelcust/flappy-bird-assets/master/sprites/yellowbird-midflap.png",
+    "fileSize": 139482
+  },
+  {
+    "name": "Game2048",
+    "internalName": "Game2048",
+    "description": "Play 2048.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/Game2048.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/gabrielecirulli/2048/master/meta/apple-touch-icon.png",
+    "fileSize": 24226
+  },
+  {
+    "name": "JackieChan",
+    "internalName": "JackieChan",
+    "description": "Play Jackie Chan Adventures.",
+    "status": 1,
+    "version": 4,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/JackieChan.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jackie%20Chan%20Adventures%20-%20Legend%20of%20the%20Dark%20Hand%20(USA%2C%20Europe).png",
+    "fileSize": 2384148
+  },
+  {
+    "name": "LittleMermaid",
+    "internalName": "LittleMermaid",
+    "description": "Play The Little Mermaid.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/LittleMermaid.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Little%20Mermaid%2C%20The%20-%20Magic%20in%20Two%20Kingdoms%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "fileSize": 4475388
+  },
+  {
+    "name": "MedalOfHonor",
+    "internalName": "MedalOfHonor",
+    "description": "Play Medal of Honor.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/MedalOfHonor.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Medal%20of%20Honor%20-%20Infiltrator%20(USA%2C%20Europe)%20(En%2CFr%2CDe).png",
+    "fileSize": 8336733
+  },
+  {
+    "name": "MetalSlugAdvance",
+    "internalName": "MetalSlugAdvance",
+    "description": "Play Metal Slug.",
+    "status": 1,
+    "version": 7,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/MetalSlugAdvance.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Metal%20Slug%20Advance%20(USA).png",
+    "fileSize": 3975971
+  },
+  {
+    "name": "MinishCap",
+    "internalName": "MinishCap",
+    "description": "Play The Minish Cap.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/MinishCap.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20(USA).png",
+    "fileSize": 7732050
+  },
+  {
+    "name": "OnePiece",
+    "internalName": "OnePiece",
+    "description": "Play One Piece.",
+    "status": 1,
+    "version": 16,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/OnePiece.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/One%20Piece%20(USA).png",
+    "fileSize": 2639369
+  },
+  {
+    "name": "Pokemon",
+    "internalName": "Pokemon",
+    "description": "Play Pok\u00e9mon FireRed.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/Pokemon.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pokemon%20-%20FireRed%20Version%20(USA%2C%20Europe).png",
+    "fileSize": 5460456
+  },
+  {
+    "name": "PrinceOfPersia",
+    "internalName": "PrinceOfPersia",
+    "description": "Play Prince of Persia.",
+    "status": 1,
+    "version": 10,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/PrinceOfPersia.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20(USA)%20(En%2CFr%2CEs).png",
+    "fileSize": 5276231
+  },
+  {
+    "name": "SeriousSam",
+    "internalName": "SeriousSam",
+    "description": "Play Serious Sam.",
+    "status": 1,
+    "version": 4,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/SeriousSam.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Serious%20Sam%20Advance%20(USA)%20(En%2CFr%2CDe).png",
+    "fileSize": 4521782
+  },
+  {
+    "name": "SuperMario",
+    "internalName": "SuperMario",
+    "description": "Play Super Mario Bros.",
+    "status": 1,
+    "version": 14,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/SuperMario.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20Bros.%20(World).png",
+    "fileSize": 528621
+  },
+  {
+    "name": "TekkenAdvance",
+    "internalName": "TekkenAdvance",
+    "description": "Play Tekken.",
+    "status": 1,
+    "version": 7,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/TekkenAdvance.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tekken%20Advance%20(USA).png",
+    "fileSize": 6381028
+  },
+  {
+    "name": "TombRaider",
+    "internalName": "TombRaider",
+    "description": "Play Tomb Raider.",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/TombRaider.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Lara%20Croft%20Tomb%20Raider%20-%20Legend%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "fileSize": 6711363
+  },
+  {
+    "name": "Zelda",
+    "internalName": "Zelda",
+    "description": "Play The Legend of Zelda.",
+    "status": 1,
+    "version": 8,
+    "apiVersion": 1,
+    "authors": [
+      "errorcode26"
+    ],
+    "url": "https://raw.githubusercontent.com/errorcode26/Ayu-CloudStream-Games/builds/Zelda.cs3",
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20(USA).png",
+    "fileSize": 151849
+  }
+]
